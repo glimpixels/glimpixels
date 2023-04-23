@@ -1,9 +1,9 @@
 <center>
 <a href="">
-<img src="https://github.com/glimpixels/glimpixels/blob/main/cards/github%20card%20nickname.png" alt="glimp / glimpixel’s | pixelart · lowpoly" style="height:215px">
+<img src="https://github.com/glimpixels/glimpixels/blob/main/cards/github%20card%20nickname.png" alt="glimp / glimpixel’s | pixelart · lowpoly" style="width:50%">
 </a>
 <a href="https://bento.me/glimp">
-<img src="https://github.com/glimpixels/glimpixels/blob/main/cards/github%20card%20bento.me.png" alt="glimp / glimpixel’s | pixelart · lowpoly" style="height:215px">
+<img src="https://github.com/glimpixels/glimpixels/blob/main/cards/github%20card%20bento.me.png" alt="glimp / glimpixel’s | pixelart · lowpoly" style="width:50%">
 </a>
 </center>
 <!--
